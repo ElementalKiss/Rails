@@ -1,4 +1,4 @@
-udo yum install gcc gcc-c++ make -y
+sudo yum install gcc gcc-c++ make -y
 
 sudo yum install ruby ruby-devel ruby-irb ruby-rdoc ruby-ri
 
